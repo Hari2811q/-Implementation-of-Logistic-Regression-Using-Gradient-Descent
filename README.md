@@ -107,11 +107,11 @@ Accurcay and y_pred:
 
 ![image](https://github.com/user-attachments/assets/bf0d127c-e558-42f5-a613-7046410a2de8)
 
-![image](https://github.com/user-attachments/assets/5c62c8c4-84bb-4a15-b32a-24b8f6712ba7)
+
 
 ![image](https://github.com/user-attachments/assets/efb2d819-11b5-4902-a0f7-bf76859a6ee3)
 
-![image](https://github.com/user-attachments/assets/62ad81a6-082f-4fcc-bf2d-b2d81c1a825a)
+
 
 
 
